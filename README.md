@@ -2,7 +2,7 @@
 <div>
 
 
-<img src="https://pbs.twimg.com/media/EVPNuxnUEAIN7lv?format=jpg&name=900x900" alt="My profile picture" align="left" width="250px" height="300px">
+<img src="https://raw.githubusercontent.com/felaris/MichaelGyeabour/main/Mike.jpeg" alt="My profile picture" align="left" width="250px" height="350px">
 I am on a mission to make the world a better place for both the thriving, underserved and underrepresented communities. My whole life's journey is wrapped around 3 industries that have been keenly on my heart, why?, because I have been a systematic participant of such situations and have experienced the severities of broken systems - from home to workplace. 
 
   <b>The 3 industries are:<b> 
