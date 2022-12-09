@@ -3,7 +3,7 @@
 
 
 <img src="https://raw.githubusercontent.com/felaris/MichaelGyeabour/main/Mike.jpeg" alt="My profile picture" align="left" width="250px" height="350px">
-I am on a mission to make the world a better place for both the thriving, underserved and underrepresented communities. My whole life's journey is wrapped around 3 industries that have been keenly on my heart, why?, because I have been a systematic participant of such situations and have experienced the severities of broken systems - from home to workplace. 
+I am on a mission to make the world a better place for both the thriving, underserved and underrepresented communities. My whole life's journey is wrapped around 3 industries that have been keenly on my heart, why?, because I have been a systematic participant of situations that break the core fabrics of society and create chronic poverty and have experienced the severities of broken systems in these industries - from home to workplace. 
 
   <b>The 3 industries are:<b> 
   * Food Security & Food Waste Management
