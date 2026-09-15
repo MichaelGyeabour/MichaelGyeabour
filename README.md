@@ -9,6 +9,7 @@ I am on a mission to make the world a better place for both the thriving, unders
   * Food Security & Food Waste Management
   * Healthcare 
   * Finance
+  * Export & Import | International logistics
 <h2> Connect with me</h2> 
 <div style="background-color:black">
 <a href=""  target='_blank' >  <img src="https://github.com/felaris/felaris/blob/master/images/facebook.gif?raw=true" alt="Facebook icon"     width="50px" height="50px"> </a>
